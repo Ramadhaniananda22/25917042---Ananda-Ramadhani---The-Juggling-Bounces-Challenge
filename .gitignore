@@ -1,0 +1,8 @@
+# video dan bobot model: besar, tidak perlu masuk repositori
+*.mp4
+*.pt
+# keluaran proses
+out*/
+outputs/
+frames/
+__pycache__/
