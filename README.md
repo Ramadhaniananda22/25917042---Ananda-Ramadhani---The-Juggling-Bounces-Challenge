@@ -22,7 +22,7 @@ bergantung pada ID tracker.
 - `floor_contact.py`  : penghitungan pantulan dari kontak lantai (dipakai untuk hasil akhir)
 - `finetune.py`       : ekstraksi frame dan skrip fine-tuning (opsional, tidak dijalankan di proyek ini)
 - `synthetic_test.py` : uji logika pada lintasan sintetis
-- `Juggling_Bounces_Colab_v2.ipynb` : notebook Colab, jalankan dari atas ke bawah
+- `25917042 - Ananda Ramadhani - The Juggling Bounces Challenge.ipynb` : notebook Colab, jalankan dari atas ke bawah
 
 ## Cara menjalankan (Google Colab, GPU T4)
 
